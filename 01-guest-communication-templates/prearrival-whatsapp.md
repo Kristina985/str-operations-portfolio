@@ -1,8 +1,13 @@
-# Pre‑Arrival WhatsApp Template
+# Pre‑Arrival WhatsApp Message (EN)
 
-Hello and welcome! 😊  
-Just checking in before your arrival.
+Hi [Guest Name]! 👋  
+This is Kristina, your host in Dubrovnik.  
+Just wanted to check in and confirm your arrival time tomorrow.
 
-Could you please share your ETA?  
-Here are your arrival instructions.  
-If you need anything on the way, I’m here for you.
+To make your check‑in smooth, could you please share:
+• Your estimated arrival time  
+• Whether you're coming by car, taxi, or bus  
+• If you need help with directions  
+
+Looking forward to welcoming you!  
+Safe travels 🌿
