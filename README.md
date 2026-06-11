@@ -78,6 +78,10 @@ MS Office · Teams · Zoom · WhatsApp Business · Viber
 
 Remote · EU/EMEA · Full-time or freelance  
 Available immediately
+## 💼 Contact
+📧 Email: kristinarilovic@gmail.com  
+🌍 Based in Dubrovnik · Open to remote roles  
+
 
 ---
 
