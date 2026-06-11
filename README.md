@@ -1,92 +1,65 @@
-# str-operations-portfolio
-Remote Operations · STR Specialist · Customer Support
-# Kristina Rilović  
-### Remote Operations · Customer Support · STR Operations Specialist  
+# 🌍 STR Operations Portfolio  
+### Remote Operations · Guest Experience · Process Optimization · Customer Support
 
-![Profile Badge](https://img.shields.io/badge/Remote-Ready-brightgreen)
-![Experience Badge](https://img.shields.io/badge/Experience-10%2B%20years-blue)
-![Languages Badge](https://img.shields.io/badge/Languages-EN%20%7C%20HR%20%7C%20ES-orange)
-![Region Badge](https://img.shields.io/badge/Region-EU%2FEMEA-purple)
+Welcome to my professional portfolio — a structured, clear, and practical overview of how I work, think, and solve operational challenges in the short‑term rental industry.
 
-## TL;DR
-Remote STR & Customer Support Specialist with 10+ years of experience across hospitality, administration, and real‑time operations. 
-~99% 5★ guest satisfaction, 200+ reviews, trilingual (EN/HR/ES). 
-Expert in check‑in workflows, guest communication, issue resolution, and SOP creation. 
-Ideal for remote operations, guest support, onboarding, and multi‑property coordination roles.
----
-
-## 👋 About Me
-
-I am a remote operations and customer support professional with **10+ years of experience** across hospitality, administration, and real‑time operational environments.
-
-My background includes:
-
-- **Short‑term rental operations** (10+ years, multi‑property)
-- **PMS / CRM / multichannel booking operations**
-- **7 years of legal/administrative work** in a high‑precision court environment
-- **Real‑time dispatch coordination** (2008–2018)
-
-I combine **hospitality empathy**, **operational discipline**, and **administrative accuracy**, making me highly effective in remote support, operations, onboarding, and client‑facing roles.
+This portfolio demonstrates:
+- operational precision  
+- systems thinking  
+- problem‑solving ability  
+- digital literacy  
+- guest communication expertise  
+- team and process organization  
 
 ---
 
-## 🛠️ Skills & Strengths
+## 📌 Key Documents
 
-- Customer Support (phone · email · chat · WhatsApp · Viber · MS Teams)  
-- PMS / CRM / Channel Manager  
-- Reservation workflows & data accuracy  
-- SOP creation & process optimization  
-- Multitasking in high‑pressure environments  
-- Clear, structured, empathetic communication  
-- Remote work discipline & reliability  
+### **1. METRICS.md**
+Overview of essential operational metrics and how performance is measured.  
+➡️ Focus: response time, resolution time, occupancy, revenue, guest satisfaction.
 
----
+### **2. BEFORE-AFTER-SCENARIOS.md**
+Real examples of transforming issues into positive guest experiences.  
+➡️ Demonstrates operational thinking and problem‑solving.
 
-## 🏡 STR Operations Highlights
+### **3. WORKFLOW-DIAGRAMS.md**
+Visual representations of core processes:  
+➡️ Guest journey, issue resolution, cleaner coordination, pricing workflow.
 
-- 200+ guest reviews  
-- ~99% 5‑star rating  
-- Full guest lifecycle management  
-- Check‑in / check‑out workflows  
-- Listing quality & expectation management  
-- Seasonal pricing logic  
+### **4. TOOLS-INTEGRATION-GUIDE.md**
+Overview of tools I use to run operations efficiently.  
+➡️ WhatsApp, Google Calendar, Drive, Canva, pricing logic.
 
----
-
-## 🧰 Tools & Systems
-
-Airbnb · Booking.com · Guesty · PMS · CRM · eSpis  
-MS Office · Teams · Zoom · WhatsApp Business · Viber  
+### **5. COMMON-ISSUES-RESOLUTION.md**
+Standardized protocols for the most frequent issues.  
+➡️ Wi‑Fi, cleaning, noise, keybox, damage, overbooking.
 
 ---
 
-## 📁 Portfolio Contents
+## 🧭 About Me
 
-| Folder | Description |
-|--------|-------------|
-| **01-guest-communication-templates** | Pre-arrival, mid-stay, check-out, review request templates (EN/HR/ES) |
-| **02-checkin-checkout-sop** | Full arrival & departure workflow |
-| **03-str-operations-case-study** | 10-year performance audit & review analysis |
-| **04-pricing-revenue-framework** | Seasonal pricing logic & dynamic rules |
-| **05-listing-quality-sop** | Listing standards, photo guidance, expectation management |
-| **Operational-Procedures** | Admin workflows, accuracy standards, documentation samples |
-| **CV** | CV in EN/HR/ES |
+I thrive in STR operations — I love structure, clear processes, and fast communication.  
+My strengths combine:
 
----
+- calmness under pressure  
+- clear and empathetic communication  
+- systems thinking  
+- digital organization  
+- experience with guests, teams, and real‑time operations  
 
-## 🌍 Availability
-
-Remote · EU/EMEA · Full-time or freelance  
-Available immediately
-## 💼 Contact
-📧 Email: kristinarilovic@gmail.com  
-🌍 Based in Dubrovnik · Open to remote roles  
-
+I work quickly, precisely, and reliably — always looking for ways to improve processes.
 
 ---
 
-## 🇭🇷 Hrvatska verzija  
-*(scroll down)*
+## 📬 Contact
 
-## 🇪🇸 Versión en español  
-*(scroll down)*
+If you’d like to collaborate or connect:  
+**Email:** kristinarilovic@gmail.com  
+**Location:** Dubrovnik, Croatia  
+**Open to:** remote operations, customer support, STR management, team coordination
+
+---
+
+Thank you for reviewing my portfolio.  
+If you'd like, I can walk you through any process in more detail.
