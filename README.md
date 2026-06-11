@@ -8,6 +8,11 @@ Remote Operations · STR Specialist · Customer Support
 ![Languages Badge](https://img.shields.io/badge/Languages-EN%20%7C%20HR%20%7C%20ES-orange)
 ![Region Badge](https://img.shields.io/badge/Region-EU%2FEMEA-purple)
 
+## TL;DR
+Remote STR & Customer Support Specialist with 10+ years of experience across hospitality, administration, and real‑time operations. 
+~99% 5★ guest satisfaction, 200+ reviews, trilingual (EN/HR/ES). 
+Expert in check‑in workflows, guest communication, issue resolution, and SOP creation. 
+Ideal for remote operations, guest support, onboarding, and multi‑property coordination roles.
 ---
 
 ## 👋 About Me
